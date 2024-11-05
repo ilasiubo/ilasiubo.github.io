@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilasiubo.github.io/FuY/sitemap_index.txt
+Sitemap: https://ilasiubo.github.io/YLJ/sitemap_index.txt
+Sitemap: https://ilasiubo.github.io/jTR/sitemap_index.txt
+Sitemap: https://ilasiubo.github.io/nQE/sitemap_index.txt
